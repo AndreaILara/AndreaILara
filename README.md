@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rock{TheCode}, JavaScript, Vite**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AndreaILara/Portfolio-Proyect](https://github.com/AndreaILara/Portfolio-Proyect)
+- 👨‍💻 All of my projects are available at [https://andreailara.netlify.app/](https://andreailara.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS3**
 
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreailara&show_icons=true&locale=en" alt="andreailara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreailara&" alt="andreailara" /></p>
-
