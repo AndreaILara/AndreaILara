@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/AndreaILara/AndreaILara/assets/146320851/26f2e51a-7ac6-445e-9a94-da56a1aeb75f" width="800"/>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">A passionate frontend developer from Spain who loves crafting engaging and user-friendly interfaces. With a keen eye for design and a dedication to staying updated on the latest web development trends, I strive to create seamless and visually appealing digital experiences. My journey in the world of frontend development is fueled by a constant curiosity and a commitment to delivering high-quality, innovative solutions that bring ideas to life on the web. As a woman in the field, I am proud to contribute my unique perspective to the ever-evolving landscape of web development. Beyond coding, I enjoy collaborating with cross-functional teams, staying involved in the open-source community, and empowering others in the tech industry.</h3>
 
