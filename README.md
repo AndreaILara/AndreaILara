@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/AndreaILara/AndreaILara/assets/146320851/e52382ef-5f3b-4e27-b82c-fe5b2d84e794" align="center" style="width: 100%" />
-</div>  
+  
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ainigo-l?42Network=off&UM6P=off" alt="ainigo-l's 42 stats" /></a>
 </div>
@@ -78,9 +76,6 @@ Coming soon !!!
   <img src="https://github-readme-stats.vercel.app/api?username=andreailara&show_icons=true&locale=en" alt="andreailara" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreailara&" alt="andreailara" />
-</p>
 
 ## Support 💘:
 <p align="center">
